@@ -25,4 +25,3 @@ My name is <b>Siwon</b>, and I'd like to call myself a "budding" developer.
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=swlee9087&show_icons=true)](https://github.com/swlee9087/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swlee9087&layout=compact)](https://github.com/swlee9087/github-readme-stats)</div>
