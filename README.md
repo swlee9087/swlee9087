@@ -1,7 +1,7 @@
 <div align=center> 
   <h1>Hi there! 👋   </h1>
 
-My name is <b>Siwon</b>, and I'd like to call myself a "budding" developer. 
+My name is <b>Siwon</b>, and I'm a newbie developer based in Seoul, Korea. 
 
   :e-mail: Reach me at __ <b>sw_lee9087@naver.com</b>
 <br><br><br>
@@ -23,5 +23,5 @@ My name is <b>Siwon</b>, and I'd like to call myself a "budding" developer.
   <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white">
   <br><br><br>
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=swlee9087&show_icons=true)](https://github.com/swlee9087/github-readme-stats)
+
 
