@@ -23,5 +23,5 @@ My name is <b>Siwon</b>, and I'm a newbie developer based in Seoul, Korea.
   <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white">
   <br><br><br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swlee9087)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swlee9087)] (https://github.com/anuraghazra/github-readme-stats)
 
