@@ -23,3 +23,8 @@ My name is <b>Siwon</b>, and I'm a newbie developer based in Seoul, Korea.
   <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white">
   <br><br><br>
   
+
+  <br><br><br>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@d4fee8f6-2390-4b40-8176-2d604bc6c98c/77ecd8a2-58d6-4a02-b323-b32ab665fe2a.png" /></a>
+  <br><br><br>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@d4fee8f6-2390-4b40-8176-2d604bc6c98c/3d262831-0880-49d0-b2e3-5fbfbe962698.png" /></a>
