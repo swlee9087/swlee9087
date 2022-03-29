@@ -2,7 +2,8 @@
   <h1>Hi there! 👋   </h1>
 
 My name is <b>Siwon</b>, and I'm a newbie dev based in Seoul, Korea. 
-  Currently working/studying in AI/ML/DL topics <2022.03>
+<br><br><br>
+Currently working/studying in AI/ML/DL topics <2022.03>
   
 <br><br><br>
   
