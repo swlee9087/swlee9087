@@ -1,9 +1,8 @@
 <div align=center> 
   <h1>Hi there! 👋   </h1>
 
-My name is <b>Siwon</b>, and I'm a newbie developer based in Seoul, Korea. 
-
-  :e-mail: Reach me at __ <b>sw_lee9087@naver.com</b>
+My name is <b>Siwon</b>, and I'm a newbie dev based in Seoul, Korea. 
+  Currently working/studying in AI/ML/DL topics <2022.03>
   
 <br><br><br>
   
