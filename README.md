@@ -8,23 +8,26 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I am a graduate student studying **Artificial Intelligence**, with a focus on **Recommender Systems**.
 
-I enjoy structured problem-solving, practical tools, quiet research work, late nights, iced coffee, and slushy draft beer.
+I enjoy structured problem-solving, practical tools, quiet research work, late nights, iced coffee, slushy draft beer, ocean waves and pretty sunsets.
 
-My current research interests include:
+I am interested in building practical AI systems that connect research ideas with real-world use cases, especially systems that are useful enough to be tested, improved, and maintained beyond a single experiment.
 
-* **Recommender Systems**
-* Large Language Models
-* Retrieval-Augmented Generation
-* RAG Evaluation
-* Data Mining
-* Natural Language Processing
-* Applied Machine Learning
+### Research Interests
 
-I am interested in building practical AI systems that connect research ideas with real-world use cases.
+<p align="left">
+  <img src="https://img.shields.io/badge/Recommender%20Systems-111827?style=flat" />
+  <img src="https://img.shields.io/badge/User%20Intent%20Modeling-0F766E?style=flat" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-111827?style=flat" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat" />
+  <img src="https://img.shields.io/badge/RAG%20Evaluation-2563EB?style=flat" />
+  <img src="https://img.shields.io/badge/Data%20Mining-0F766E?style=flat" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-6A5ACD?style=flat" />
+  <img src="https://img.shields.io/badge/Applied%20Machine%20Learning-2563EB?style=flat" />
+</p>
 
 ---
 
@@ -39,33 +42,30 @@ I am interested in building practical AI systems that connect research ideas wit
 
 ### 🛠️ Tech Stack & Tools
 
-#### Research & Modeling
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Recommender%20Systems-111827?style=flat" />
-  <img src="https://img.shields.io/badge/Scikit--surprise-4B8BBE?style=flat" />
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-111827?style=flat" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat" />
-  <img src="https://img.shields.io/badge/RAG%20Evaluation-2563EB?style=flat" />
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-6A5ACD?style=flat" />
-  <img src="https://img.shields.io/badge/Data%20Mining-0F766E?style=flat" />
-</p>
-
-#### Machine Learning & Data Analysis
+#### Machine Learning & Deep Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--surprise-4B8BBE?style=flat" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/vLLM-7C3AED?style=flat" />
+</p>
+
+#### Data Analysis & Experimentation
+
+<p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
 </p>
 
 #### Backend, Web & Database
@@ -100,9 +100,6 @@ I am interested in building practical AI systems that connect research ideas wit
 #### Documentation & Workflow
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
